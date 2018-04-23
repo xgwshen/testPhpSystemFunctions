@@ -1,6 +1,6 @@
 <?php
 /**
- * 测试系统函数
+ * 测试系统函数---字符串函数
  */
 //adslashes 在预定义字符前加反斜杠
 //$str="hhh\ null'sdfs',/hNULLh,NULL";
