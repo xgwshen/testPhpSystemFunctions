@@ -25,4 +25,4 @@
 //echo str_replace("hello",'',"hello world!",$count);
 //echo $count;
 //reponse:world!1
-
+//突然发现问题所在
