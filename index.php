@@ -17,4 +17,11 @@
 //echo html_entity_decode($str);
 //strpos() 返回字符串在另一个字符串中第一次出现的位置 如果没有找到该字符串 返回false; strpos(string,find,start)
 //string find-必须 start开始搜索的位置 可选
-echo strpos("hello world",'wo');
+//echo strpos("hello world",'wo');
+/**
+ * str_replace() 使用一个字符串替换字符串中的另一些字符
+ * str_repalce(find,replace,string,count)->find,replace,string(必须) count(可选变量):对替换数进行计数
+ */
+//echo str_replace("hello",'',"hello world!",$count);
+//echo $count;
+//reponse:world!1
