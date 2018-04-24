@@ -25,3 +25,4 @@
 //echo str_replace("hello",'',"hello world!",$count);
 //echo $count;
 //reponse:world!1
+
