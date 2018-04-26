@@ -12,3 +12,4 @@
 function sad(){
     echo "i am very sad!";
 }
+sad();
