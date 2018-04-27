@@ -26,4 +26,5 @@
 //echo $count;
 //reponse:world!1
 //突然发现问题所在
-var_dump(phpinfo());
+//var_dump(phpinfo());
+//情不知所起也
