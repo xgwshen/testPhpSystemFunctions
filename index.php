@@ -27,4 +27,4 @@
 //reponse:world!1
 //突然发现问题所在
 //var_dump(phpinfo());
-//情不知所起也
+//情不知所起也 apache不能使用,重装phpstudy composer没装上!
